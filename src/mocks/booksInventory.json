@@ -1,0 +1,64 @@
+{
+    "booksCategory": [
+        {
+            "cat_id": "cat_1",
+            "name": "Novels",
+            "books": [
+                {
+                    "id": "cat_01_bk_01",
+                    "name": "Test Book1",
+                    "price": 120.56
+                },
+                {
+                    "id": "cat_01_bk_02",
+                    "name": "Test Book2",
+                    "price": 340.00
+                }
+            ]
+        },
+        {
+            "cat_id": "cat_2",
+            "name": "Biographies",
+            "books": [
+                {
+                    "id": "cat_02_bk_01",
+                    "name": "Test Book1 Cat_02",
+                    "price": 200.50
+                },
+                {
+                    "id": "cat_02_bk_02",
+                    "name": "Test Book2 Cat_02",
+                    "price": 350.00
+                }
+            ]
+        },
+        {
+            "cat_id": "cat_3",
+            "name": "Fiction",
+            "books": [
+                {
+                    "id": "cat_03_bk_01",
+                    "name": "Test Book1 Cat_03",
+                    "price": 200.00
+                },
+                {
+                    "id": "cat_03_bk_02",
+                    "name": "Test Book2 Cat_03",
+                    "price": 300.00
+                }
+            ]
+        },
+        {
+            "cat_id": "cat_4",
+            "name": "Comics",
+            "books": [
+            ]
+        },
+        {
+            "cat_id": "cat_5",
+            "name": "Entertainment",
+            "books": [
+            ]
+        }
+    ]
+}
